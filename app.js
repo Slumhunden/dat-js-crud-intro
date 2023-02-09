@@ -29,7 +29,7 @@ function displayUsers(list) {
             <img src="${user.image}">
                 <h2>${user.name}</h2>
             <p>${user.title}</p>
-            <a href="mailto:${user.mail}">${user.email}</a>
+            <a href="mailto:${user.mail}">${user.mail}</a>
             <div class="btns">
             <button class="btn-update-user">OPDATER</button>
             <button class="btn-delete-user">SLET</button>

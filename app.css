@@ -178,6 +178,7 @@ input {
   display: block;
   background: var(--white);
 }
-dialog {
-    width 40%;
+#dialogupdate {
+    width: 30%;
+    height: 27em;
 }
